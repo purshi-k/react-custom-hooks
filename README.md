@@ -1,4 +1,4 @@
-# react-custom-hoons
+# react-custom-hooks
 Custom hooks are those re-usable hooks which can be created to do some repeated tasks like http call/debounce etc
 
 Reusability — we can use the same hook again and again, without the need to write it twice.
